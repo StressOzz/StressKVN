@@ -1,8 +1,5 @@
 # <p align="center"> <img width="300" height="300" alt="Безымянный" src="https://github.com/user-attachments/assets/5b51ec3d-6725-40fa-a4cf-14cfe363c6b9" />
 
-
-
-
 <p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a> </p> <p align="center"> <img src="https://img.shields.io/badge/status-active-success" /> <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20iOS%20%7C%20macOS-blue" /> <img src="https://img.shields.io/badge/traffic-unlimited-orange" /> <img src="https://img.shields.io/badge/privacy-no--logs-critical" /> <img src="https://img.shields.io/badge/setup-fast-brightgreen" /> </p>
 
 ## ⚡ Возможности
@@ -12,10 +9,11 @@
 - ♾ Полностью безлимитный трафик
 - 🔒 Защита соединения и приватности
 - 🕒 Работа 24/7 без отключений
+- 📶 Подписку можно использовать на роутере с [**Mixomo-Manager**](https://github.com/StressOzz/Mixomo-Manager)
 
 ## ⚙️ Быстрый старт
 - Подключение занимает ~3 минуты:
-- Открыть бота https://t.me/StressKVN_bot
+- Открыть бота **https://t.me/StressKVN_bot**
 - Выбрать тариф
 - Оплатить
 - Получить готовый доступ
@@ -38,4 +36,4 @@
 - 6 месяцев
 - 12 месяцев
 
-💰 от 200₽ / месяц
+💰 от 199₽ / месяц
