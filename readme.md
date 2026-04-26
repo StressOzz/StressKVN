@@ -10,7 +10,7 @@
 - 🔒 Защита соединения и приватности
 - 🕒 Работа 24/7 без отключений
 - 🌍 Более 20 локаций
-- 📶 Подписку можно использовать на роутере с [**Mixomo Manager**](https://github.com/StressOzz/Mixomo-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager), [**Podkop Evolution**](https://github.com/yandexru45/podkop-evolution)
+- 📶 Подписку можно использовать на роутере с [**Podkop Evolution в ZM**](https://github.com/StressOzz/Zapret-Manager), [**Mixomo Manager**](https://github.com/StressOzz/Mixomo-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager)
 
 ## ⚙️ Быстрый старт
 - Подключение занимает ~3 минуты:
