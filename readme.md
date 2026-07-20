@@ -10,7 +10,7 @@
 - 🔒 Защита соединения и приватности
 - 🕒 Работа 24/7 без отключений
 - 🌍 Более 20 локаций
-- 📶 Подписку можно использовать на роутере с [**NetShift в Zapret Manager**](https://github.com/StressOzz/Zapret-Manager), [**Mixomo Manager**](https://github.com/StressOzz/Mixomo-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager)
+- 📶 Подписку можно использовать на роутере с [**NetShift и Mixomo в Zapret Manager**](https://github.com/StressOzz/Zapret-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager)
 
 ## ⚙️ Быстрый старт
 - Подключение занимает ~2 минуты:
