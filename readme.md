@@ -3,13 +3,18 @@
 <p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="https://connecto.lol/stresskvn"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
 
 ## ⚡ Возможности
-- 🚫 Обход блокировок даже при жёсткой фильтрации
+- ✅ Работает даже при жёсткой фильтрации
 - 🧾 Работает в условиях белых списков
 - ⚡ Высокая скорость без ограничений
 - ♾ Полностью безлимитный трафик
 - 🔒 Защита соединения и приватности
+- ▶️ YouTube без рекламы
 - 🕒 Работа 24/7 без отключений
 - 🌍 Более 20 локаций
+- 🚀 Умная маршрутизация: иностранные ресурсы через VPN, российский трафик напрямую
+- 🎁 Бесплатный тест — 3 дня без оплаты
+
+
 - 📶 Подписку можно использовать на роутере с [**NetShift и Mixomo в Zapret Manager**](https://github.com/StressOzz/Zapret-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager)
 
 ## ⚙️ Быстрый старт
