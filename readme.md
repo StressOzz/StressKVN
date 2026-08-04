@@ -13,14 +13,11 @@
 - 🌍 Более 20 локаций
 - 🚀 Умная маршрутизация: иностранные ресурсы через VPN, российский трафик напрямую
 - 🎁 Бесплатный тест — 3 дня без оплаты
-
-
 - 📶 Подписку можно использовать на роутере с [**NetShift и Mixomo в Zapret Manager**](https://github.com/StressOzz/Zapret-Manager), [**Z2R Manager**](https://github.com/StressOzz/Z2R-Manager)
 
 ## ⚙️ Быстрый старт
 - Подключение занимает ~2 минуты:
 - Откройте ТГ бота **https://t.me/StressKVN_bot**
-  
   или
   зайдите на сайт **https://connecto.lol/stresskvn** если у Вас нет доступа к ТГ
 - Выберите подписку
