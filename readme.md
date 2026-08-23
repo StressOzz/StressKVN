@@ -1,6 +1,6 @@
 # <p align="center"> <img width="633" height="202" alt="image-gen-1(1)" src="https://github.com/user-attachments/assets/538b3907-c318-455d-8ca3-a81e16cb0a1a" />
 
-<p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="https://connecto.lol/stresskvn"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
+<p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="http://stresskvn.lol/"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
 
 ## ⚡ Возможности
 - ✅ Работает даже при жёсткой фильтрации
