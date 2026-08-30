@@ -2,6 +2,13 @@
 
 <p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="http://stresskvn.lol/"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
 
+<p align="center">
+  <a href="https://t.me/StressKVN_bot">🤖 Telegram Bot</a> •
+  <a href="http://stresskvn.lol/">🌐 Website</a> •
+  <a href="https://t.me/StressKVN">💬 StressKVN</a> •
+  <a href="https://t.me/StressOzz_Manager">⚙️ StressOzz Manager</a>
+</p>
+
 ## ⚡ Возможности
 - ✅ Работает даже при жёсткой фильтрации
 - 🧾 Работает в условиях белых списков
