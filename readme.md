@@ -1,10 +1,10 @@
 # <p align="center"> <img width="633" height="202" alt="image-gen-1(1)" src="https://github.com/user-attachments/assets/538b3907-c318-455d-8ca3-a81e16cb0a1a" />
 
-<p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot?start=git_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="https://stresskvn.lol/?utm_source=git_site"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
+<p align="center"> <b>Высокоскоростной VPN для стабильного доступа к интернету без ограничений</b> </p> <p align="center"> <a href="https://t.me/StressKVN_bot?start=git_bot"><img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram"></a> <a href="https://stresskvn.com/?utm_source=git_site"><img src="https://img.shields.io/badge/Website-Open-blue?style=for-the-badge"></a> <a href="https://t.me/StressKVN"><img src="https://img.shields.io/badge/Community-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
 
 <p align="center">
   <a href="https://t.me/StressKVN_bot?start=git_bot">🤖 Telegram Bot</a> •
-  <a href="https://stresskvn.lol/?utm_source=git_site">🌐 Website</a> •
+  <a href="https://stresskvn.com/?utm_source=git_site">🌐 Website</a> •
   <a href="https://t.me/StressKVN">💬 StressKVN</a> •
   <a href="https://t.me/StressOzz_Manager">⚙️ StressOzz Manager</a>
 </p>
@@ -25,9 +25,9 @@
 
 ## ⚙️ Быстрый старт
 - Подключение занимает ~2 минуты:
-- Откройте ТГ бота **https://t.me/StressKVN_bot**
+- Откройте ТГ бота [**https://t.me/StressKVN_bot**](https://t.me/StressKVN_bot?start=git_bot)
   или
-  зайдите на сайт **[stresskvn.com](https://stresskvn.lol/?utm_source=git_site)** если у Вас нет доступа к ТГ
+  зайдите на сайт **[https://stresskvn.com](https://stresskvn.com/?utm_source=git_site)** если у Вас нет доступа к ТГ
 - Выберите подписку
 - Оплатите
 - Получите готовый доступ
