@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://t.me/StressKVN_bot?start=git_bot">🤖 Telegram Bot</a> •
-  <a href="https://stresskvn.com/?utm_source=git_site">🌐 Website</a> •
-  <a href="https://t.me/StressKVN">💬 StressKVN</a> •
-  <a href="https://t.me/StressOzz_Manager">⚙️ StressOzz Manager</a>
+  <a href="https://stresskvn.com/?utm_source=git_site">🌐 Website VPN</a> •
+  <a href="https://t.me/StressKVN">💬 тг: StressKVN</a> •
+  <a href="https://t.me/StressOzz_Manager">⚙️ тг: StressOzz Manager</a>
 </p>
 
 ## ⚡ Возможности
